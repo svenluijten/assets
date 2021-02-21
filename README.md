@@ -16,3 +16,6 @@ You will need [the Open Sans font](https://fonts.google.com/specimen/Open+Sans) 
 | Credit     | `#4f46e5` |
 | Background | `#ffffff` |
 | Text       | `#000000` |
+
+# The `misc` folder
+This folder contains some miscellaneous files that don't belong to a specific post.
