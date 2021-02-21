@@ -10,9 +10,8 @@ files in them:
 The `card.png` file serves as the social image. A template for this image can be found at [`card.psd`](./card.psd).
 You will need [the Open Sans font](https://fonts.google.com/specimen/Open+Sans) to open and edit this file.
 
-+------------+-----------+
 | Element    | Hex       |
-+------------+-----------+
+| ---------- | --------- |
 | Underline  | `#c7d2fe` |
 | Credit     | `#4f46e5` |
 | Background | `#ffffff` |
